@@ -1,4 +1,6 @@
-# Multithreading Sort
+# OS-Multithreading-Sort
+
+A Java console project for learning operating system multithreading concepts through single-threaded and multi-threaded merge sort implementations.
 
 A Java console project that compares a classic single-threaded merge sort with a multi-threaded merge sort. It generates random integer arrays, sorts them with both approaches, checks correctness against Java's built-in sort, and measures the performance difference.
 
